@@ -1,0 +1,10 @@
+D:\Graphics_Editor\Graphics_Editor\Graphics_Editor\bin\Debug\Graphics_Editor.exe.config
+D:\Graphics_Editor\Graphics_Editor\Graphics_Editor\bin\Debug\Graphics_Editor.exe
+D:\Graphics_Editor\Graphics_Editor\Graphics_Editor\bin\Debug\Graphics_Editor.pdb
+D:\Graphics_Editor\Graphics_Editor\Graphics_Editor\obj\Debug\Graphics_Editor.csproj.AssemblyReference.cache
+D:\Graphics_Editor\Graphics_Editor\Graphics_Editor\obj\Debug\Graphics_Editor.Form1.resources
+D:\Graphics_Editor\Graphics_Editor\Graphics_Editor\obj\Debug\Graphics_Editor.Properties.Resources.resources
+D:\Graphics_Editor\Graphics_Editor\Graphics_Editor\obj\Debug\Graphics_Editor.csproj.GenerateResource.cache
+D:\Graphics_Editor\Graphics_Editor\Graphics_Editor\obj\Debug\Graphics_Editor.csproj.CoreCompileInputs.cache
+D:\Graphics_Editor\Graphics_Editor\Graphics_Editor\obj\Debug\Graphics_Editor.exe
+D:\Graphics_Editor\Graphics_Editor\Graphics_Editor\obj\Debug\Graphics_Editor.pdb
